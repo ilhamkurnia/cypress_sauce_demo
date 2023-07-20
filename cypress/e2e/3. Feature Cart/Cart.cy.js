@@ -1,7 +1,7 @@
-import { CartPage } from "../page-object/CartPage";
-import { LoginPage } from "../page-object/LoginPage";
-import { ProductPage } from "../page-object/ProductPage";
-import { Utils } from "../page-object/Utils";
+import { CartPage } from "../../page-object/CartPage";
+import { LoginPage } from "../../page-object/LoginPage";
+import { ProductPage } from "../../page-object/ProductPage";
+import { Utils } from "../../page-object/Utils";
 
 describe('Test Scenario Cart', () => {
 

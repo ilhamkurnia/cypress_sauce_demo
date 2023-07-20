@@ -1,10 +1,10 @@
-import { LoginPage } from "../page-object/LoginPage";
-import { ProductPage } from "../page-object/ProductPage";
-import { CartPage } from "../page-object/CartPage";
-import { CheckoutInformation } from "../page-object/CheckoutInformation";
-import { CheckoutOverview } from "../page-object/CheckoutOverview";
-import { CheckoutConfirmation } from "../page-object/CheckoutConfirmation";
-import { Utils } from "../page-object/Utils";
+import { LoginPage } from "../../page-object/LoginPage";
+import { ProductPage } from "../../page-object/ProductPage";
+import { CartPage } from "../../page-object/CartPage";
+import { CheckoutInformation } from "../../page-object/CheckoutInformation";
+import { CheckoutOverview } from "../../page-object/CheckoutOverview";
+import { CheckoutConfirmation } from "../../page-object/CheckoutConfirmation";
+import { Utils } from "../../page-object/Utils";
 
 describe('When placing items in the cart', () => {
 
